@@ -15,4 +15,4 @@
 为了让观众更安心地获取和欣赏影片，我们也将在未来发布各类资源站推荐清单和使用指南。
 希望本篇内容能为您在资源查找与观看方面提供有价值的建议，提升观影体验的安全性与舒适度。
 
-<span style="display:none;">[Canonical link](  ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/vp20250709/654321 ）</span>
